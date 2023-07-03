@@ -1,6 +1,3 @@
-execute as @a if predicate eroxified:player_head_blocks/holding_head_with_saved_data at @s run function eroxified:internal/player_head_blocks/saved_data/hold
-execute as @a[tag=eroxified.player_head_blocks.holding_head_with_saved_data] unless predicate eroxified:player_head_blocks/holding_head_with_saved_data at @s run function eroxified:internal/player_head_blocks/saved_data/stop_holding
-
 execute as @a at @s rotated as @s anchored eyes positioned ^ ^ ^3 as @e[type=marker,tag=eroxified.player_head_blocks.marker,distance=..4,predicate=!eroxified:player_head_blocks/player_head] at @s run function eroxified:internal/player_head_blocks/despawn_attempt
 execute as @a at @s rotated as @s anchored eyes positioned ^ ^ ^3 as @e[type=marker,tag=eroxified.player_head_blocks.marker,distance=..4,predicate=eroxified:player_head_blocks/player_head,sort=random,limit=1] at @s run function eroxified:internal/player_head_blocks/despawn_attempt
 execute as @a at @s rotated as @s anchored eyes positioned ^ ^ ^3 as @e[type=armor_stand,tag=eroxified.player_head_blocks.armor_stand,distance=..4,predicate=!eroxified:player_head_blocks/player_head] at @s run function eroxified:internal/player_head_blocks/despawn_attempt

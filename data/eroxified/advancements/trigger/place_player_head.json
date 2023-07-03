@@ -1,7 +1,7 @@
 {
   "parent": "eroxified:trigger/root",
   "criteria": {
-    "place_player_head": {
+    "place": {
       "trigger": "minecraft:placed_block",
       "conditions": {
         "location": [
@@ -10,7 +10,8 @@
             "predicate": {
               "items": [
                 "minecraft:player_head"
-              ]
+              ],
+	      "nbt": "{eroxified:{player_head_blocks:{detect:1b}}}"
             }
           }
         ]
@@ -19,10 +20,10 @@
   },
   "requirements": [
     [
-      "place_player_head"
+      "place"
     ]
   ],
   "rewards": {
-    "function": "eroxified:internal/trigger/place_player_head"
+    "function": "eroxified:internal/phead/place_advancement_triggered"
   }
 }

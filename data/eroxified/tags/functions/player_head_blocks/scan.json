@@ -1,0 +1,21 @@
+{
+  "comment": "
+#####################################################################
+# eroxified/tags/functions/player_head_blocks/scan.json
+# written by Eroxen
+#
+# Gets called on any newly placed Player Head that has 'eroxified.' at the start of SkullOwner.Name
+# Storage context :
+# - eroxified:api :
+#   - scan_head :
+#     - name : the Player Head's SkullOwner.Name
+#     - namespace : 'eroxified.'
+#     - id : the Player Head's SkullOwner.Name without 'eroxified.'
+#     - (@Nullable) item_used : item that was used to place this head. Count = 1b and does not know Slot.
+#####################################################################
+",
+  "replace": false,
+  "values": [
+    "eroxified:example/player_head_blocks/scan"
+  ]
+}
