@@ -1,0 +1,1 @@
+tellraw @s {"nbt":"installed[].title","storage":"eroxified:compatibility","separator":"\n","interpret":true}

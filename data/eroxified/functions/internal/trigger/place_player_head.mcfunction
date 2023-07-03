@@ -1,0 +1,2 @@
+advancement revoke @s only eroxified:trigger/place_player_head
+execute if data storage eroxified:config modules{player_head_blocks:1b} at @s rotated as @s anchored eyes positioned ^ ^ ^ run function eroxified:internal/player_head_blocks/place_head

@@ -1,0 +1,14 @@
+execute if score math.trig.input eroxified.internal matches 745 run data modify storage eroxified:internal math.trig.output set value 0.9636f
+execute if score math.trig.input eroxified.internal matches 746 run data modify storage eroxified:internal math.trig.output set value 0.9641f
+execute if score math.trig.input eroxified.internal matches 747 run data modify storage eroxified:internal math.trig.output set value 0.9646f
+execute if score math.trig.input eroxified.internal matches 748 run data modify storage eroxified:internal math.trig.output set value 0.9650f
+execute if score math.trig.input eroxified.internal matches 749 run data modify storage eroxified:internal math.trig.output set value 0.9655f
+execute if score math.trig.input eroxified.internal matches 750 run data modify storage eroxified:internal math.trig.output set value 0.9659f
+execute if score math.trig.input eroxified.internal matches 751 run data modify storage eroxified:internal math.trig.output set value 0.9664f
+execute if score math.trig.input eroxified.internal matches 752 run data modify storage eroxified:internal math.trig.output set value 0.9668f
+execute if score math.trig.input eroxified.internal matches 753 run data modify storage eroxified:internal math.trig.output set value 0.9673f
+execute if score math.trig.input eroxified.internal matches 754 run data modify storage eroxified:internal math.trig.output set value 0.9677f
+execute if score math.trig.input eroxified.internal matches 755 run data modify storage eroxified:internal math.trig.output set value 0.9681f
+execute if score math.trig.input eroxified.internal matches 756 run data modify storage eroxified:internal math.trig.output set value 0.9686f
+execute if score math.trig.input eroxified.internal matches 757 run data modify storage eroxified:internal math.trig.output set value 0.9690f
+execute if score math.trig.input eroxified.internal matches 758 run data modify storage eroxified:internal math.trig.output set value 0.9694f

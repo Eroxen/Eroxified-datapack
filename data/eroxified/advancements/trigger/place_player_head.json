@@ -1,0 +1,28 @@
+{
+  "parent": "eroxified:trigger/root",
+  "criteria": {
+    "place_player_head": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": [
+                "minecraft:player_head"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "place_player_head"
+    ]
+  ],
+  "rewards": {
+    "function": "eroxified:internal/trigger/place_player_head"
+  }
+}

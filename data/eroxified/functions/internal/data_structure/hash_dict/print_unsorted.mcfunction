@@ -1,0 +1,1 @@
+tellraw @s {"storage":"eroxified:internal","nbt":"data_structure.dict.bins[][]","separator":"\n"}

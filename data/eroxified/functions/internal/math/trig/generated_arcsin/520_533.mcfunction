@@ -1,0 +1,14 @@
+execute if score math.trig.input eroxified.internal matches 787473..788547 run data modify storage eroxified:internal math.trig.output set value 52.0f
+execute if score math.trig.input eroxified.internal matches 788548..789619 run data modify storage eroxified:internal math.trig.output set value 52.1f
+execute if score math.trig.input eroxified.internal matches 789620..790689 run data modify storage eroxified:internal math.trig.output set value 52.2f
+execute if score math.trig.input eroxified.internal matches 790690..791756 run data modify storage eroxified:internal math.trig.output set value 52.3f
+execute if score math.trig.input eroxified.internal matches 791757..792821 run data modify storage eroxified:internal math.trig.output set value 52.4f
+execute if score math.trig.input eroxified.internal matches 792822..793883 run data modify storage eroxified:internal math.trig.output set value 52.5f
+execute if score math.trig.input eroxified.internal matches 793884..794943 run data modify storage eroxified:internal math.trig.output set value 52.6f
+execute if score math.trig.input eroxified.internal matches 794944..796001 run data modify storage eroxified:internal math.trig.output set value 52.7f
+execute if score math.trig.input eroxified.internal matches 796002..797056 run data modify storage eroxified:internal math.trig.output set value 52.8f
+execute if score math.trig.input eroxified.internal matches 797057..798109 run data modify storage eroxified:internal math.trig.output set value 52.9f
+execute if score math.trig.input eroxified.internal matches 798110..799159 run data modify storage eroxified:internal math.trig.output set value 53.0f
+execute if score math.trig.input eroxified.internal matches 799160..800207 run data modify storage eroxified:internal math.trig.output set value 53.1f
+execute if score math.trig.input eroxified.internal matches 800208..801253 run data modify storage eroxified:internal math.trig.output set value 53.2f
+execute if score math.trig.input eroxified.internal matches 801254..802296 run data modify storage eroxified:internal math.trig.output set value 53.3f

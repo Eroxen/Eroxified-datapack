@@ -1,0 +1,27 @@
+{
+  "condition": "any_of",
+  "terms": [
+    {
+      "condition": "location_check",
+      "predicate": {
+        "block": {
+          "nbt": "{SkullOwner:{}}",
+          "blocks": [
+            "minecraft:player_head"
+          ]
+        }
+      }
+    },
+    {
+      "condition": "location_check",
+      "predicate": {
+        "block": {
+          "nbt": "{SkullOwner:{}}",
+          "blocks": [
+            "minecraft:player_wall_head"
+          ]
+        }
+      }
+    }
+  ]
+}

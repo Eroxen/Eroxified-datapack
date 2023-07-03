@@ -1,0 +1,14 @@
+execute if score math.trig.input eroxified.internal matches 23560..25304 run data modify storage eroxified:internal math.trig.output set value 1.4f
+execute if score math.trig.input eroxified.internal matches 25305..27048 run data modify storage eroxified:internal math.trig.output set value 1.5f
+execute if score math.trig.input eroxified.internal matches 27049..28793 run data modify storage eroxified:internal math.trig.output set value 1.6f
+execute if score math.trig.input eroxified.internal matches 28794..30538 run data modify storage eroxified:internal math.trig.output set value 1.7f
+execute if score math.trig.input eroxified.internal matches 30539..32282 run data modify storage eroxified:internal math.trig.output set value 1.8f
+execute if score math.trig.input eroxified.internal matches 32283..34026 run data modify storage eroxified:internal math.trig.output set value 1.9f
+execute if score math.trig.input eroxified.internal matches 34027..35771 run data modify storage eroxified:internal math.trig.output set value 2.0f
+execute if score math.trig.input eroxified.internal matches 35772..37515 run data modify storage eroxified:internal math.trig.output set value 2.1f
+execute if score math.trig.input eroxified.internal matches 37516..39259 run data modify storage eroxified:internal math.trig.output set value 2.2f
+execute if score math.trig.input eroxified.internal matches 39260..41003 run data modify storage eroxified:internal math.trig.output set value 2.3f
+execute if score math.trig.input eroxified.internal matches 41004..42747 run data modify storage eroxified:internal math.trig.output set value 2.4f
+execute if score math.trig.input eroxified.internal matches 42748..44490 run data modify storage eroxified:internal math.trig.output set value 2.5f
+execute if score math.trig.input eroxified.internal matches 44491..46234 run data modify storage eroxified:internal math.trig.output set value 2.6f
+execute if score math.trig.input eroxified.internal matches 46235..47977 run data modify storage eroxified:internal math.trig.output set value 2.7f

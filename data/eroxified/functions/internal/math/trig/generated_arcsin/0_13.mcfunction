@@ -1,0 +1,14 @@
+execute if score math.trig.input eroxified.internal matches ..872 run data modify storage eroxified:internal math.trig.output set value 0.0f
+execute if score math.trig.input eroxified.internal matches 873..2617 run data modify storage eroxified:internal math.trig.output set value 0.1f
+execute if score math.trig.input eroxified.internal matches 2618..4362 run data modify storage eroxified:internal math.trig.output set value 0.2f
+execute if score math.trig.input eroxified.internal matches 4363..6108 run data modify storage eroxified:internal math.trig.output set value 0.3f
+execute if score math.trig.input eroxified.internal matches 6109..7853 run data modify storage eroxified:internal math.trig.output set value 0.4f
+execute if score math.trig.input eroxified.internal matches 7854..9598 run data modify storage eroxified:internal math.trig.output set value 0.5f
+execute if score math.trig.input eroxified.internal matches 9599..11343 run data modify storage eroxified:internal math.trig.output set value 0.6f
+execute if score math.trig.input eroxified.internal matches 11344..13089 run data modify storage eroxified:internal math.trig.output set value 0.7f
+execute if score math.trig.input eroxified.internal matches 13090..14834 run data modify storage eroxified:internal math.trig.output set value 0.8f
+execute if score math.trig.input eroxified.internal matches 14835..16579 run data modify storage eroxified:internal math.trig.output set value 0.9f
+execute if score math.trig.input eroxified.internal matches 16580..18324 run data modify storage eroxified:internal math.trig.output set value 1.0f
+execute if score math.trig.input eroxified.internal matches 18325..20069 run data modify storage eroxified:internal math.trig.output set value 1.1f
+execute if score math.trig.input eroxified.internal matches 20070..21814 run data modify storage eroxified:internal math.trig.output set value 1.2f
+execute if score math.trig.input eroxified.internal matches 21815..23559 run data modify storage eroxified:internal math.trig.output set value 1.3f

@@ -1,0 +1,15 @@
+execute if score math.trig.input eroxified.internal matches 435 run data modify storage eroxified:internal math.trig.output set value 0.6884f
+execute if score math.trig.input eroxified.internal matches 436 run data modify storage eroxified:internal math.trig.output set value 0.6896f
+execute if score math.trig.input eroxified.internal matches 437 run data modify storage eroxified:internal math.trig.output set value 0.6909f
+execute if score math.trig.input eroxified.internal matches 438 run data modify storage eroxified:internal math.trig.output set value 0.6921f
+execute if score math.trig.input eroxified.internal matches 439 run data modify storage eroxified:internal math.trig.output set value 0.6934f
+execute if score math.trig.input eroxified.internal matches 440 run data modify storage eroxified:internal math.trig.output set value 0.6947f
+execute if score math.trig.input eroxified.internal matches 441 run data modify storage eroxified:internal math.trig.output set value 0.6959f
+execute if score math.trig.input eroxified.internal matches 442 run data modify storage eroxified:internal math.trig.output set value 0.6972f
+execute if score math.trig.input eroxified.internal matches 443 run data modify storage eroxified:internal math.trig.output set value 0.6984f
+execute if score math.trig.input eroxified.internal matches 444 run data modify storage eroxified:internal math.trig.output set value 0.6997f
+execute if score math.trig.input eroxified.internal matches 445 run data modify storage eroxified:internal math.trig.output set value 0.7009f
+execute if score math.trig.input eroxified.internal matches 446 run data modify storage eroxified:internal math.trig.output set value 0.7022f
+execute if score math.trig.input eroxified.internal matches 447 run data modify storage eroxified:internal math.trig.output set value 0.7034f
+execute if score math.trig.input eroxified.internal matches 448 run data modify storage eroxified:internal math.trig.output set value 0.7046f
+execute if score math.trig.input eroxified.internal matches 449 run data modify storage eroxified:internal math.trig.output set value 0.7059f

@@ -1,0 +1,15 @@
+execute if score math.trig.input eroxified.internal matches 999680..999721 run data modify storage eroxified:internal math.trig.output set value 88.6f
+execute if score math.trig.input eroxified.internal matches 999722..999761 run data modify storage eroxified:internal math.trig.output set value 88.7f
+execute if score math.trig.input eroxified.internal matches 999762..999798 run data modify storage eroxified:internal math.trig.output set value 88.8f
+execute if score math.trig.input eroxified.internal matches 999799..999831 run data modify storage eroxified:internal math.trig.output set value 88.9f
+execute if score math.trig.input eroxified.internal matches 999832..999862 run data modify storage eroxified:internal math.trig.output set value 89.0f
+execute if score math.trig.input eroxified.internal matches 999863..999889 run data modify storage eroxified:internal math.trig.output set value 89.1f
+execute if score math.trig.input eroxified.internal matches 999890..999913 run data modify storage eroxified:internal math.trig.output set value 89.2f
+execute if score math.trig.input eroxified.internal matches 999914..999935 run data modify storage eroxified:internal math.trig.output set value 89.3f
+execute if score math.trig.input eroxified.internal matches 999936..999953 run data modify storage eroxified:internal math.trig.output set value 89.4f
+execute if score math.trig.input eroxified.internal matches 999954..999968 run data modify storage eroxified:internal math.trig.output set value 89.5f
+execute if score math.trig.input eroxified.internal matches 999969..999980 run data modify storage eroxified:internal math.trig.output set value 89.6f
+execute if score math.trig.input eroxified.internal matches 999981..999989 run data modify storage eroxified:internal math.trig.output set value 89.7f
+execute if score math.trig.input eroxified.internal matches 999990..999996 run data modify storage eroxified:internal math.trig.output set value 89.8f
+execute if score math.trig.input eroxified.internal matches 999997..999999 run data modify storage eroxified:internal math.trig.output set value 89.9f
+execute if score math.trig.input eroxified.internal matches 1000000.. run data modify storage eroxified:internal math.trig.output set value 90.0f

@@ -1,0 +1,6 @@
+# this function is referenced in function tag #eroxified:scan_placed_head
+# and is ran on player heads in the world whenever a player places a player head
+
+execute if data storage eroxified:api place_player_head_block{id:"eroxified.example.sculk_emitter"} unless entity @e[type=marker,tag=eroxified.player_head_blocks.marker,tag=eroxified.example.sculk_emitter,distance=..0.1,limit=1] run summon marker ~ ~ ~ {Tags:["eroxified.player_head_blocks.marker","eroxified.player_head_blocks.marker.new","eroxified.example.sculk_emitter","eroxified.player_head_blocks.particle","eroxified.player_head_blocks.particle.1"],data:{block_name:"eroxified.example.sculk_emitter"}}
+
+execute if data storage eroxified:api place_player_head_block{id:"eroxified.example.sculk_blaster"} unless entity @e[type=marker,tag=eroxified.player_head_blocks.marker,tag=eroxified.example.sculk_blaster,distance=..0.1,limit=1] run summon marker ~ ~ ~ {Tags:["eroxified.player_head_blocks.marker","eroxified.player_head_blocks.marker.new","eroxified.example.sculk_blaster","eroxified.player_head_blocks.particle","eroxified.player_head_blocks.particle.025"],data:{block_name:"eroxified.example.sculk_blaster"}}

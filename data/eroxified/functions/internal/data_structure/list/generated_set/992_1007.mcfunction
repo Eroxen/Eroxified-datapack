@@ -1,0 +1,16 @@
+execute if score data_structure.list.i eroxified.internal matches 992 run data modify storage eroxified:internal data_structure.list[992] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 993 run data modify storage eroxified:internal data_structure.list[993] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 994 run data modify storage eroxified:internal data_structure.list[994] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 995 run data modify storage eroxified:internal data_structure.list[995] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 996 run data modify storage eroxified:internal data_structure.list[996] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 997 run data modify storage eroxified:internal data_structure.list[997] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 998 run data modify storage eroxified:internal data_structure.list[998] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 999 run data modify storage eroxified:internal data_structure.list[999] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 1000 run data modify storage eroxified:internal data_structure.list[1000] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 1001 run data modify storage eroxified:internal data_structure.list[1001] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 1002 run data modify storage eroxified:internal data_structure.list[1002] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 1003 run data modify storage eroxified:internal data_structure.list[1003] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 1004 run data modify storage eroxified:internal data_structure.list[1004] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 1005 run data modify storage eroxified:internal data_structure.list[1005] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 1006 run data modify storage eroxified:internal data_structure.list[1006] set from storage eroxified:internal data_structure.list_op.element
+execute if score data_structure.list.i eroxified.internal matches 1007 run data modify storage eroxified:internal data_structure.list[1007] set from storage eroxified:internal data_structure.list_op.element
