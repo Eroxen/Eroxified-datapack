@@ -1,0 +1,2 @@
+execute if score #math.multiply.magnitude.b eroxified.internal matches -5 store result score #math.multiply.mantissa.b eroxified.internal run data get storage eroxified:internal math.multiply.b 100000000.00000000000000
+execute if score #math.multiply.magnitude.b eroxified.internal matches -4 store result score #math.multiply.mantissa.b eroxified.internal run data get storage eroxified:internal math.multiply.b 10000000.00000000000000

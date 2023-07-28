@@ -1,0 +1,3 @@
+execute as @a at @s anchored eyes positioned ^ ^ ^4 if entity @e[type=interaction,tag=eroxified.interaction,distance=..8,predicate=eroxified:entity/interaction/lclicked,limit=1] run function eroxified:internal/entity/interaction/player_lclick_search
+
+execute as @a at @s anchored eyes positioned ^ ^ ^4 if entity @e[type=interaction,tag=eroxified.interaction,distance=..8,predicate=eroxified:entity/interaction/rclicked,limit=1] run function eroxified:internal/entity/interaction/player_rclick_search

@@ -1,0 +1,2 @@
+execute if score #math.multiply.magnitude.a eroxified.internal matches -5 store result storage eroxified:internal math.multiply.output float 0.00000000001000 run scoreboard players get #math.multiply.mantissa.a eroxified.internal
+execute if score #math.multiply.magnitude.a eroxified.internal matches -4 store result storage eroxified:internal math.multiply.output float 0.00000000010000 run scoreboard players get #math.multiply.mantissa.a eroxified.internal

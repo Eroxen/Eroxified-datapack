@@ -1,0 +1,16 @@
+execute if score math.trig.x eroxified.internal matches 4192 run data modify storage eroxified:internal math.trig.output set value 33.08504234928139f
+execute if score math.trig.x eroxified.internal matches 4193 run data modify storage eroxified:internal math.trig.output set value 33.11812882364229f
+execute if score math.trig.x eroxified.internal matches 4194 run data modify storage eroxified:internal math.trig.output set value 33.15124841613479f
+execute if score math.trig.x eroxified.internal matches 4195 run data modify storage eroxified:internal math.trig.output set value 33.184401159878476f
+execute if score math.trig.x eroxified.internal matches 4196 run data modify storage eroxified:internal math.trig.output set value 33.217587088026065f
+execute if score math.trig.x eroxified.internal matches 4197 run data modify storage eroxified:internal math.trig.output set value 33.250806233763534f
+execute if score math.trig.x eroxified.internal matches 4198 run data modify storage eroxified:internal math.trig.output set value 33.28405863031f
+execute if score math.trig.x eroxified.internal matches 4199 run data modify storage eroxified:internal math.trig.output set value 33.31734431091785f
+execute if score math.trig.x eroxified.internal matches 4200 run data modify storage eroxified:internal math.trig.output set value 33.35066330887282f
+execute if score math.trig.x eroxified.internal matches 4201 run data modify storage eroxified:internal math.trig.output set value 33.38401565749384f
+execute if score math.trig.x eroxified.internal matches 4202 run data modify storage eroxified:internal math.trig.output set value 33.41740139013333f
+execute if score math.trig.x eroxified.internal matches 4203 run data modify storage eroxified:internal math.trig.output set value 33.450820540177f
+execute if score math.trig.x eroxified.internal matches 4204 run data modify storage eroxified:internal math.trig.output set value 33.48427314104396f
+execute if score math.trig.x eroxified.internal matches 4205 run data modify storage eroxified:internal math.trig.output set value 33.51775922618689f
+execute if score math.trig.x eroxified.internal matches 4206 run data modify storage eroxified:internal math.trig.output set value 33.551278829091835f
+execute if score math.trig.x eroxified.internal matches 4207 run data modify storage eroxified:internal math.trig.output set value 33.58483198327838f
