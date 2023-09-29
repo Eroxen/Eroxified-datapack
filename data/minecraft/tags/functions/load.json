@@ -1,5 +1,6 @@
 {
   "values": [
-    "eroxified:internal/load"
+    "eroxified:internal/load",
+    "flop:api/create_scoreboards"
   ]
 }
