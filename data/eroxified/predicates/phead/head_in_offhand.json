@@ -5,7 +5,7 @@
       "condition": "inverted",
       "term": {
         "condition": "reference",
-        "name": "gen:phead/head_in_mainhand"
+        "name": "eroxified:phead/head_in_mainhand"
       }
     },
     {
